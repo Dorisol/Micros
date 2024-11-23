@@ -1,0 +1,7 @@
+Warning[205] C:\USERS\MAYI2\MPLABXPROJECTS\PRACTICA6_JOYSTICK.X\PRACTICA6_JOYSTICKK.ASM 1 : Found directive in column 1. (__Config)
+Warning[207] C:\USERS\MAYI2\MPLABXPROJECTS\PRACTICA6_JOYSTICK.X\PRACTICA6_JOYSTICKK.ASM 4 : Found label after column 1. (Reset)
+Message[302] C:\USERS\MAYI2\MPLABXPROJECTS\PRACTICA6_JOYSTICK.X\PRACTICA6_JOYSTICKK.ASM 20 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\MAYI2\MPLABXPROJECTS\PRACTICA6_JOYSTICK.X\PRACTICA6_JOYSTICKK.ASM 22 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\MAYI2\MPLABXPROJECTS\PRACTICA6_JOYSTICK.X\PRACTICA6_JOYSTICKK.ASM 23 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\MAYI2\MPLABXPROJECTS\PRACTICA6_JOYSTICK.X\PRACTICA6_JOYSTICKK.ASM 39 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[313] C:\USERS\MAYI2\MPLABXPROJECTS\PRACTICA6_JOYSTICK.X\RETARDOS.INC 20 : CBLOCK constants will start with a value of 0.
